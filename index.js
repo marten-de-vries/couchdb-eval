@@ -14,8 +14,6 @@
 	limitations under the License.
 */
 
-"use strict";
-
 var PouchPluginError = require("pouchdb-plugin-error");
 var extend = require("extend");
 
